@@ -8,7 +8,6 @@ int main(void){
     int deaths;
     int births;
     int startSize;
-    int total=0;
     int endSize=0;
     //This do and while loop below creates the prompt to ask user for an intiger.
     // If this intiger is less than 9, it reprompts and asks for a different number.
