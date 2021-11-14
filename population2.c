@@ -1,6 +1,12 @@
 #include <cs50.h>
 #include <stdio.h>
+/*
+    Mr. Ramirez's Notes
+    Good work! Your code compliles and prints the correct output.
+    Your style is consistent and follows all guidelines.
+    I like your use of do-while loops.
 
+*/
 int main(void){
     //This is where all the variables are declared.
     //Some are given the value of 0 in order to calculate
